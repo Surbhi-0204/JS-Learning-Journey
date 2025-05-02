@@ -30,4 +30,4 @@ let  booleanIsLoggedIn= Boolean(isLoggedIn);
 //""=>false
 
 let someNumber= 24
-let stringNumber= String(someNumber);
+let stringNumber= String(someNumber);// String with new returns a string wrapper object and the dataType is object.
